@@ -205,6 +205,6 @@
         align-items: flex-start;
     }
     .input_opcoes {
-        width: 40%;
+        width: 100%;
     }
 }
