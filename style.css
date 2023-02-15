@@ -38,7 +38,8 @@
 }
 
 .parte-botao {
-    width: 780px;
+    max-width: 780px;
+    min-width: 320px;
     margin:20px 0 40px;
 }
 
@@ -52,7 +53,8 @@
 }
 
 .segunda_parte{
-    width: 780px;
+    max-width: 780px;
+    min-width: 320px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -98,8 +100,8 @@
 }
 
 .quarta_parte{
-    width: 780px;
-
+    max-width: 780px;
+    min-width: 320px;
     display: flex;
     flex-direction: column;
 }
@@ -127,7 +129,8 @@
 
 .quinta_parte-container {
     background-color: var( --bloco-quinta-parte);
-    width: 780px;
+    max-width: 780px;
+    min-width: 320px;
     margin-top:30px;
 }
 
@@ -154,7 +157,8 @@
 
 .rodape {
     color: var(--branco);
-    width: 780px;
+    max-width: 780px;
+    min-width: 320px;
     padding: 20px 0px ;
 }
 
